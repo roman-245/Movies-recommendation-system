@@ -1,8 +1,0 @@
-Performing system checks...
-
-System check identified no issues (0 silenced).
-March 11, 2025 - 23:14:42
-Django version 5.1.6, using settings 'prs_project.settings'
-Starting development server at http://127.0.0.1:8000/
-Quit the server with CTRL-BREAK.
-
