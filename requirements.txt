@@ -8,3 +8,6 @@ scikit-learn
 jupyter
 seaborn
 matplotlib
+pyLDAvis
+nltk
+stop_words

@@ -11,3 +11,4 @@ cluster.png
 **/__pycache__/*
 analytics/migrations/*
 data
+lda
